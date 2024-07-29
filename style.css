@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, rgb(132, 14, 14), black);
+  }
+  
+  h2 {
+    margin-top: 30px;
+  }
+  
+  #about, #projects, #skills, #contact {
+    padding: 20px;
+    background: linear-gradient(to right, red,  grey);
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background: linear-gradient(to left, #343a40, #434a50);
+    color: #fff;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    background: linear-gradient(to left, pink, rgb(209, 80, 101));
+  }
+
+  .heads {
+    background: linear-gradient(to left, #343a40, #434a50);
+    
+  }
+
+  .head {
+    color: rgb(221, 199, 199);
+  }
+  
